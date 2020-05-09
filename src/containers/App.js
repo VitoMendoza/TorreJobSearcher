@@ -26,7 +26,6 @@ class App extends Component {
     }
 
 
-
     verifyText(myArg) {
         this.setState({response:false});
         if (myArg.term===''){
