@@ -23,6 +23,7 @@ const CardList = ({people}) => {
                             key={i}
                             subjectId={people[i].subjectId}
                             name={people[i].name}
+                            username={people[i].username}
                             professionalHeadline={people[i].professionalHeadline}
                             locationName={people[i].locationName}
                             picture={people[i].picture}
@@ -44,6 +45,7 @@ const CardList = ({people}) => {
                             key={i}
                             subjectId={people[i].subjectId}
                             name={people[i].name}
+                            username={people[i].username}
                             professionalHeadline={people[i].professionalHeadline}
                             locationName={people[i].locationName}
                             picture={people[i].picture}
@@ -62,6 +64,7 @@ const CardList = ({people}) => {
                         key={i}
                         subjectId={people[i].subjectId}
                         name={people[i].name}
+                        username={people[i].username}
                         professionalHeadline={people[i].professionalHeadline}
                         locationName={people[i].locationName}
                         picture={people[i].picture}
@@ -81,6 +84,7 @@ const CardList = ({people}) => {
                         key={i}
                         subjectId={people[i].subjectId}
                         name={people[i].name}
+                        username={people[i].username}
                         professionalHeadline={people[i].professionalHeadline}
                         locationName={people[i].locationName}
                         picture={people[i].picture}
@@ -96,6 +100,7 @@ const CardList = ({people}) => {
                             key={i}
                             subjectId={people[i].subjectId}
                             name={people[i].name}
+                            username={people[i].username}
                             professionalHeadline={people[i].professionalHeadline}
                             locationName={people[i].locationName}
                             picture={people[i].picture}

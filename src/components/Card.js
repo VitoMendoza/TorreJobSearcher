@@ -1,7 +1,9 @@
 import React from 'react';
 
+
 const Card = ({ subjectId, 
-                name, 
+                name,
+                username, 
                 professionalHeadline, 
                 locationName, 
                 picture, 
@@ -19,8 +21,8 @@ return(
             <div className=''>
                 <img className="br-100 pa1 ba b--black-10 h3 w3" src={`${picturelink}`} alt='foto'/>
             </div>
-            <div>
-                <h2>{name}</h2>
+            <div>               
+                <a href={`https://bio.torre.co/${username}`} target='_blank'><h2>{name}</h2></a>
                 <h3>{professionalHeadline}</h3>
                 <p>{locationName}</p>
                 <h3 className='rate'>Rate: {amount}{currency} {periodicity}</h3>

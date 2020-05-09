@@ -19,7 +19,8 @@ input {
     color: #e7e7e7;
 }
 
-h2 {
+h2,
+a {
     color: #d14f12;
 }
 
