@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/torrejobsearcher/static/css/main.17643b97.chunk.css",
+    "main.js": "/torrejobsearcher/static/js/main.00aba621.chunk.js",
+    "main.js.map": "/torrejobsearcher/static/js/main.00aba621.chunk.js.map",
+    "runtime-main.js": "/torrejobsearcher/static/js/runtime-main.5fcbcfd8.js",
+    "runtime-main.js.map": "/torrejobsearcher/static/js/runtime-main.5fcbcfd8.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/torrejobsearcher/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.600a21bf.chunk.js": "/torrejobsearcher/static/js/2.600a21bf.chunk.js",
+    "static/js/2.600a21bf.chunk.js.map": "/torrejobsearcher/static/js/2.600a21bf.chunk.js.map",
+    "index.html": "/torrejobsearcher/index.html",
+    "precache-manifest.3e3416fa3dcfff2a5f03d16abfed81b8.js": "/torrejobsearcher/precache-manifest.3e3416fa3dcfff2a5f03d16abfed81b8.js",
+    "service-worker.js": "/torrejobsearcher/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/torrejobsearcher/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.17643b97.chunk.css.map": "/torrejobsearcher/static/css/main.17643b97.chunk.css.map",
+    "static/js/2.600a21bf.chunk.js.LICENSE.txt": "/torrejobsearcher/static/js/2.600a21bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcbcfd8.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.600a21bf.chunk.js",
+    "static/css/main.17643b97.chunk.css",
+    "static/js/main.00aba621.chunk.js"
+  ]
+}
