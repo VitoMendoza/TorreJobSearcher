@@ -13,32 +13,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Progress Log
 
-### * Task 17:
+### * Task 18:
 Deploying
 
-### * Task 16:
+### * Task 17:
 Fix some details.
 
-### * Task 15:
+### * Task 16:
 Apply Quality Control.
 
-### * Task 14:
+### * Task 15:
 Code cleaning.
 
-### * Task 13:
+### * Task 14:
 Apply enhancements, link to Torre biographies.
 
-### * Task 12:
+### * Task 13:
 Working on trial and error method.
 
-### * Task 11:
+### * Task 12:
 Implement fetch to Torre endpoint.
 
-### * Task 10:
+### * Task 11:
 Implement App container.
 
-### * Task 9:
+### * Task 10:
 Apply visual styles.
+
+### * Task 9:
+Exercise with static data.
 
 ### * Task 8:
 Implement Scroll component.
